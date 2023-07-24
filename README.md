@@ -1,7 +1,9 @@
 #  Introduction
 Quasar Admin premium is an admin template designed for starter templates. It comes with a variety of built-in components
 such as cards, stats, tables, charts, message layout, section headings, login pages, sales dashboard, maps, etc. This
-template is available for purchase at a cost of $69. Please drop me an [email](mailto:pratikpatelpp802@gmail.com).
+template is available for purchase at a cost of $69.
+
+# If you're interested in purchasing this template, please visit my sponsorship page(Sponsor Me). To gain access to the code, you'll need to sponsor me for $69 per month (one-time payment).
 
 # Features
 
