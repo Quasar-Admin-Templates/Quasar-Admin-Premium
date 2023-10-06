@@ -1,3 +1,5 @@
+# Over 12 delighted customers are already using this.
+
 #  Introduction
 Quasar Admin premium is an admin template designed for starter templates. It comes with a variety of built-in components
 such as cards, stats, tables, charts, message layout, section headings, login pages, sales dashboard, maps, etc. This
